@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-const Page = require('../controllers/pageController');
+const Page = require('../controllers/pageController.js');
 
 // read
 
